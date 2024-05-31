@@ -332,40 +332,39 @@ section .fil-layar, .fil-experience, .fil-certifications, .fil-contact {
 
 .my-experience .images-2 {
     display: flex;
-    gap: 10px;
-    justify-content: center;
-    width: 10px;
+    justify-content: left;
+    width: 650px;
     height: 160px;
     margin-left: 20px;
     margin-top: 100px;
 }
 
 .my-experience .images-2 .first{
-    padding-right: 0px;
+    padding-right: 0;
     border-radius: 40px;
     box-shadow: 0 0 15px blueviolet;
 }
 
 .my-experience .images-2 .second{
-    padding-right: 00px;
+    padding-right: 0;
     border-radius: 40px;
     box-shadow: 0 0 15px blueviolet;
 }
 
 .my-experience .images-2 .third{
-    padding-right: 0px;
+    padding-right: 0;
     border-radius: 40px;
     box-shadow: 0 0 15px blueviolet;
 }
 
 .my-experience .images-2 .fourth{
-    padding-right: 0px;
+    padding-right: 0;
     border-radius: 40px;
     box-shadow: 0 0 15px blueviolet;
 }
 
 .my-experience .images-2 .five{
-    padding-right: 0px;
+    padding-right: 0;
     border-radius: 40px;
     box-shadow: 0 0 15px blueviolet;
 }
