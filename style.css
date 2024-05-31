@@ -335,7 +335,7 @@ section .fil-layar, .fil-experience, .fil-certifications, .fil-contact {
     display: flex;
     justify-content: center;
     height: 160px;
-    margin-left: 120px;
+    margin-left: 10px;
     margin-top: 100px;
 }
 
